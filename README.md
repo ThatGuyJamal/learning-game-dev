@@ -7,5 +7,3 @@ Not sure if I like gaming games yet, we will see.
 ## Games 
 
 - Pong
-- Flappy Bird
-- Breakout
